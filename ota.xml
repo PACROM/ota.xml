@@ -13,7 +13,7 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>https://gitlab.com/danisapyl/pacbox_builds/-/blob/master/PACROM_bullhead-10.0-20200706-0413-UNOFFICIAL.zip</DirectUrl>
+  <DirectUrl>https://gitlab.com/danisapyl/pacbox_builds/-/raw/master/PACROM_bullhead-10.0-20200706-0413-UNOFFICIAL.zip</DirectUrl>
   <HttpUrl nil="true" />
   <!-- What version are you issuing? -->
   <Android>10.0</Android>
