@@ -13,8 +13,8 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>https://gitlab.com/danisapyl/build_002/-/raw/master/PACROM_bullhead-10.0-20200713-0129-OFFICIAL.zip</DirectUrl>
-  <HttpUrl nil="true" />
+  <DirectUrl nil="true" />
+  <HttpUrl>https://gitlab.com/danisapyl/build_002/-/raw/master/PACROM_bullhead-10.0-20200713-0129-OFFICIAL.zip</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>10.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
